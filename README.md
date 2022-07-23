@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hukoroku
+- 👀 I’m interested in open source projects
+- 🌱 I’m currently learning Python
